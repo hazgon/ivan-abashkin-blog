@@ -85,6 +85,6 @@ post:
   pin_prompt: Pinned
 
 # categories page
-categories:
-  category_measure: categories
-  post_measure: posts
+#categories:
+#  category_measure: categories
+#  post_measure: posts
