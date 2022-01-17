@@ -20,7 +20,7 @@ timezone: Europe/Moscow
 
 title: Иван Абашкин                          # the main title
 
-tagline:   # it will display as the sub-title
+tagline: Блог  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Блог Ивана Абашкина
@@ -80,7 +80,7 @@ theme_mode: dark  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -164,7 +164,7 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [tags]
   layouts:
     category: category
     tag: tag

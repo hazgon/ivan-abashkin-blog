@@ -4,14 +4,14 @@
 
 layout:
   post: Post
-#  category: Category
+  category: Category
   tag: Tag
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: "Блог"
-#  categories: "Категории"
+  categories: "Категории"
   tags: "Теги"
   archives: "История записей"
   about: "Обо мне"
@@ -85,6 +85,6 @@ post:
   pin_prompt: Pinned
 
 # categories page
-#categories:
-#  category_measure: categories
-#  post_measure: posts
+categories:
+  category_measure: categories
+  post_measure: posts
