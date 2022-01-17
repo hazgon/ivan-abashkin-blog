@@ -38,9 +38,9 @@ date_format:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: This post is licensed under :LICENSE_NAME by the author.
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    template: При копировании материалов с этого сайта, ссылка на источник обязательна.
+    name: При копировании материалов с этого сайта, ссылка на источник обязательна.
+    link:
 
   # Displayed in the footer
   brief: При использовании материалов с этого сайта, ссылка на источник обязательна.
@@ -58,9 +58,9 @@ not_found:
 # ----- Posts related labels -----
 
 post:
-  written_by: By
-  posted: Posted
-  updated: Updated
+  written_by: "Автор"
+  posted: "Опубликовано"
+  updated: "Обновлено"
   timeago:
     day: "Дней назад"
     hour: "Часов назад"
@@ -77,12 +77,12 @@ post:
     next: "Следующий"
     previous: "Предыдущий"
     copy_code:
-      succeed: Copied!
+      succeed: "Скопировано!"
     share_link:
-      title: Copy link
-      succeed: Link copied successfully!
+      title: "Копировать ссылку"
+      succeed: "Ссылка успешно скопирована!"
   # pinned prompt of posts list on homepage
-  pin_prompt: Pinned
+  pin_prompt: "Закреплено"
 
 # categories page
 categories:
