@@ -1,6 +1,6 @@
 ---
-layout: Категории
+layout: categories
 title: Категории
 icon: fas fa-stream
-order: 0
+order: 1
 ---
