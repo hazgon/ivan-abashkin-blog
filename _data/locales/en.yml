@@ -69,7 +69,7 @@ post:
   words: "Слов"
   pageview_measure: "Просмотров"
   read_time:
-    unit: "Минут"
+    unit: "Минут(а)"
     prompt: "Чтения"
   relate_posts: "Продолжить чтение"
   share: "Поделиться"
