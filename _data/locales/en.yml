@@ -11,7 +11,7 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: "Блог"
-  categories: Categories
+#  categories: "Категории"
   tags: "Теги"
   archives: "История записей"
   about: "Обо мне"
