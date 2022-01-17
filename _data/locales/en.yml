@@ -10,11 +10,11 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Блог
+  home: "Блог"
 #  categories: Categories
-  tags: Теги
-  archives: История
-  about: Обо мне
+  tags: "Теги"
+  archives: "История записей"
+  about: "Обо мне"
 
 # the text displayed in the search bar & search results
 search:
@@ -23,9 +23,9 @@ search:
   no_results: Oops! No result founds.
 
 panel:
-  lastmod: Recent Update
-  trending_tags: Trending Tags
-  toc: Contents
+  lastmod: "Недавно обновлено"
+  trending_tags: "Частые теги"
+  toc: "Оглавление"
 
 #  The liquid date format › http://strftime.net/
 date_format:
@@ -43,10 +43,9 @@ copyright:
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: Some rights reserved.
+  brief: При использовании материалов с этого сайта, ссылка на источник обязательна.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    При использовании материалов с этого сайта, ссылка на источник обязательна.
 
 meta: Powered by :PLATFORM with :THEME theme.
 
@@ -72,11 +71,11 @@ post:
   read_time:
     unit: min
     prompt: read
-  relate_posts: Further Reading
+  relate_posts: Продолжить чтение
   share: Share
   button:
-    next: Newer
-    previous: Older
+    next: Следующий
+    previous: Предыдущий
     copy_code:
       succeed: Copied!
     share_link:
