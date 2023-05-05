@@ -1,0 +1,53 @@
+"The Magic Druid" is a thinking tool used to analyze and solve dilemmas and conflicts. It is a two-part structure (left and right) that helps break down the problem into four causal steps for each side. The point of step 4 is that the goal violation is so great that it requires us to take the action of step 5. And the goal violation in step 8 is so great that it requires us to take the action from step 1.
+
+
+Example 1:
+Step 1 - Action: We must throw stones at the saber-toothed tiger
+Step 2 - Negative impact of Step 1 on me: If we do this, we will get its attention
+Step 3 - Consequence of Step 2 - Negative impact on the local subsystem: If we get the tiger's attention, he may attack us
+Step 4 - Consequence of Step 3 - Violation of System Goals: If the tiger attacks us, we could die!
+Step 5 - Action: In order not to die we must not throw stones at the saber-toothed tiger
+Step 6 - Negative impact of Step 5 - Negative impact on me: If we don't throw stones at the tiger, it will stay by the cave
+Step 7 - Consequence of Step 6 - Negative impact on the local subsystem: If the tiger stays at the cave, it can attack our family members
+Step 8 - Consequence of Step 7 - Violation of System Goals: If the tiger attacks our family members, they could die!
+
+Because of the undesirability of step 8, we want to do the action in step 1. Because of the undesirability of step 4, we want to do the action of step 5
+
+1. throw rocks at a saber-toothed tiger -> Attract the tiger's attention -> He may attack us -> We may die ->
+2. -> Don't throw stones at the saber-toothed tiger -> The saber-toothed tiger stays near the cave -> The saber-toothed tiger can attack our family members -> Our family members can die ->
+
+Example 2:
+Step 1 - Action: There is a desire to take only hand luggage
+Step 2 - Negative impact of Step 1 on me: We know that carry-on luggage is limited to seven pounds, so you can't fit everything you want in there.
+Step 3 - Consequence of Step 2 - Negative impact on the local subsystem: So we need to take only the essentials.
+Step 4 - Consequence of Step 3 - Violation of System Goals: If we take only the essentials. then we begin to suffer from missing something on the trip.
+Step 5 - Action: So we have a desire to take luggage with us next time
+Step 6 - Negative impact of Step 5 - Negative impact on me: When we decide to bring luggage with us, we use up all the available space, cramming it to the limit.
+Step 7 - Consequence of Step 6 - Negative impact on the local subsystem: A full suitcase becomes heavy
+Step 8 - Consequence of Step 7 - Violation of System Goals: A heavy suitcase has to be dragged everywhere with us, and it's very hard on us.
+
+Because of the undesirability of step 8, we want to do the action in step 1. Because of the undesirability of step 4, we want to do the action of step 5
+
+1. take only carry-on luggage -> I am limited to a 7 kg bag -> I take only the essentials -> During the trip, I am missing what I didn't take with me ->
+2. Taking luggage with me -> I use the extra space in my suitcase to the max -> The luggage (hand luggage and suitcase) is quite heavy -> You pant, grunt, sweat maneuvering the bags along the way ->
+
+Example 3:
+Step 1 - Action: Work from home
+Step 2 - Negative impact of Step 1 on me: Working from home, we are alone.
+Step 3 - Consequence of Step 2 - Negative impact on the local subsystem: When we are alone, we don't communicate much with our colleagues
+Step 4 - Consequence of Step 3 - Violation of System Goals: Due to lack of communication, our productivity decreases, requiring us to move to work in the office.
+Step 5 - Action: Work in the office
+Step 6 - Negative impact of Step 5 on me:  We have to drive to work
+Step 7 - Consequence of Step 6 - Negative impact on the local subsystem: The drive to work takes a significant amount of time
+Step 8 - Consequence of Step 7 - Violation of System Goals: Travel time wears us out, wastes our energy, and brings us back to the idea of working from home
+
+In this example, we see a closed loop between the two options of working from home and working in an office, where each has advantages and disadvantages, with the disadvantages of one option requiring us to switch to the other option.
+
+1. Working from home -> I am alone -> Lack of communication with colleagues -> Decreased productivity ->
+2. Working in an office -> Have to commute -> Long commute -> Experience fatigue and stress ->
+
+
+
+Make a druid based on my description below.
+
+<описание проблемы на английском>
